@@ -1,0 +1,62 @@
+h3 {
+    margin: 20px;
+}
+h2 {
+    margin: 20px;
+}
+h1 {
+    margin: 20px;
+}
+p {
+    margin: 20px;
+}
+
+.contact i {
+  color: blue;
+  margin: 20px;
+}
+.contact a {
+    color: blue;
+    text-decoration: none;
+    
+}
+.follow i {
+    color: blue;
+    padding: 20px;
+}
+.exp {
+    margin: 20px;
+}
+ .exp h3 {
+   display: inline;
+}  
+.icon {
+    margin-top: 8px;
+}
+.map iframe {
+    margin: 30px;
+    border-radius:50% ;
+    width: 450px;
+}
+.tablehead tr th {
+    padding: 10px 125px;
+    background-color:#DDDDDD;
+}
+.tablebody tr td {
+    padding: 10px 125px;
+}
+.tabledata {
+    background-color:#EEEEEE;
+}
+table {
+    margin: 20px;
+  border: 2px solid #DDDDDD;
+}
+.FollowUS ul {
+    margin-left: 20px;
+}
+.header img {
+    margin: 20px;
+}
+
+
